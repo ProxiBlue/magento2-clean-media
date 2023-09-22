@@ -102,7 +102,7 @@ Unused "/m/i/mixer.glb" was removed
 ## List duplicated files
 
 ```
-bin/magento si:catalog:media -m
+bin/magento si:catalog:media -d
 
 Duplicate "/i/m/image5847.jpg" to "/i/m/image5007.jpg"
 
